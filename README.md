@@ -35,9 +35,7 @@ Para comunicar los hallazgos de forma **interactiva y clara**, se construyó un 
 
 ---
 
-## 🖼️ Captura de pantalla del dashboard
-
-*(Inserta aquí una imagen representativa del dashboard, por ejemplo un PNG exportado de Tableau)*  
+## 🖼️ Captura de pantalla del dashboard  
 
 ![Dashboard de Tableau](dashboard-ocupaciones.png)
 
